@@ -1,6 +1,10 @@
 # The Raynor Stack
 
 ## A Thermodynamic Architecture of Humane Technology
+# The Raynor Stack
+
+Canonical definition of the thermodynamic architecture underlying Ambient Phone.
+Primary reference: https://ambientphone.com/raynor-stack/
 
 The Raynor Stack describes the sequence by which technology becomes humane:
 
