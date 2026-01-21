@@ -1,0 +1,42 @@
+Canonical Rights License 1.0 (CRL-1.0)
+
+Copyright (c) 2026 Raynor Eissens
+
+This work defines a canonical conceptual architecture intended for citation,
+scholarly reference, and interoperable implementation. It is not a software
+license; it governs the reuse of conceptual, structural, and thermodynamic
+frameworks described in this repository.
+
+Permissions
+-----------
+• You may cite this work in academic, scientific, or technical contexts.
+• You may reference, discuss, analyze, or build upon the concepts herein.
+• You may implement systems inspired by this architecture, provided attribution
+  is preserved.
+
+Requirements
+-----------
+• Any reuse must provide clear attribution to the original author:
+  "Raynor Eissens, The Raynor Stack (2026)"
+• Derivative conceptual works must state where the original framework is used,
+  extended, or modified.
+• The terminology, operators, and structural definitions may not be obscured,
+  rebranded, or misrepresented.
+
+Restrictions
+-----------
+• Commercial use of the canonical terminology, structural operators, or
+  thermodynamic architecture without explicit permission is prohibited.
+• The framework may not be incorporated into proprietary standards or product
+  definitions without written authorization.
+• The canonical structure may not be fragmented or republished under misleading
+  names or claims.
+
+Disclaimer
+-----------
+This license governs conceptual reuse, not software distribution. It does not
+confer any warranties, and the author is not responsible for derivative uses.
+
+Version
+-----------
+CRL-1.0 — January 2026
