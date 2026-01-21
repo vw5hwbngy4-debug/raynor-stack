@@ -1,0 +1,19 @@
+{
+  "title": "Raynor Stack — Canonical Specification",
+  "description": "The Raynor Stack defines the canonical architecture of the Ambient Era: time → attention → viability → warmth → ambience → aura → field. This repository contains the reference specification, PDF releases, and canonical metadata files.",
+  "creators": [
+    {
+      "name": "Eissens, Raynor",
+      "affiliation": "Ambient Future Labs"
+    }
+  ],
+  "keywords": [
+    "Ambient Era",
+    "Raynor Stack",
+    "Viability Layer",
+    "Thermodynamic Field",
+    "Ambient Architecture"
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0"
+}
