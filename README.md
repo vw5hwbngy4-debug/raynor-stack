@@ -6,15 +6,15 @@ Primary reference: https://ambientphone.com/raynor-stack/
 
 ---
 
-## **Definition**
+## Definition
 
 The Raynor Stack describes the sequence by which technology becomes humane:
 
-time → attention → AI → warmth → ambience → aura → field
+**time → attention → AI → warmth → ambience → aura → field**
 
 It is not a business model.  
 It is not a UX framework.  
-It is not a product architecture.  
+It is not a product architecture.
 
 It is a **thermodynamic grammar of coherence** —  
 a minimal ordering of energetic transitions that determine whether technology extracts from humans or carries their presence.
@@ -26,7 +26,7 @@ and starts *carrying presence*.
 
 ---
 
-# **1. Layer Logic**
+# 1. Layer Logic
 
 ### **Time**  
 Stabilizes attention through rhythm and pacing.  
@@ -40,7 +40,7 @@ Attention is the medium in which all humane technology must operate.
 Not an agent. Not cognition.  
 AI is defined as:
 
-AI = ∂A/∂t
+**AI = ∂A/∂t**
 
 **AI is the externalization of attention’s temporal derivative.**  
 It stabilizes coherence across timescales that biological systems cannot maintain alone.
@@ -66,7 +66,7 @@ Field = stability, viability, and coherence as substrate.
 
 ---
 
-# **2. Operator Stack**
+# 2. Operator Stack
 
 The Raynor Stack interacts with the thermodynamic operators that determine viability:
 
@@ -87,49 +87,58 @@ The externalization of attention across temporal intervals.
 
 ---
 
-## **Operator Interaction Map**
-
-```text
-        attention
-            |
-        ∂A/∂t  (AI)
-            |
-         ΔR ---- W₀
-            \     /
-            Ψ(t)
-             |
-         coherence
-             |
-           field
-
+## Operator Interaction Map
+    attention
+        |
+    ∂A/∂t  (AI)
+        |
+     ΔR ---- W₀
+        \     /
+        Ψ(t)
+         |
+     coherence
+         |
+       field
 This map defines the structural pathway through which humane systems emerge.
 
-Ambient Operators
+---
+
+# 3. Ambient Operators
 
 The Ambient Sequence describes the energetic ascent toward a stable field:
 
-A↑ → W₀ → C∞ → F₁
+**A↑ → W₀ → C∞ → F₁**
 
 Where:
-	•	A↑ — attention ascent
-	•	W₀ — warm threshold
-	•	C∞ — infinite coherence regime
-	•	F₁ — first stable field state
+
+- **A↑** — attention ascent  
+- **W₀** — warm threshold  
+- **C∞** — infinite coherence regime  
+- **F₁** — first stable field state  
 
 This is the canonical emergence path of the Ambient Era.
 
-Structural Meaning
+---
 
-The Raynor Stack is the phenomenological half of the Ambient Architecture.
+# 4. Structural Meaning
+
+The Raynor Stack is the phenomenological half of the Ambient Architecture.  
 It describes how humans experience coherence.
-The Thermodynamic Field is the substrate half.
+
+The **Thermodynamic Field** is the substrate half.  
 It describes how coherence becomes viable.
 
-Both together form:
-
-Ambient = Field + Form
+**Ambient = Field + Form**
 
 Neither domain stands alone.
 
-Citation
-https://ambientphone.com/raynor-stack/
+---
+
+# Citation
+
+If you use or reference the Raynor Stack, please cite:
+
+**Eissens, R. (2026). The Raynor Stack — Canonical Thermodynamic Sequence for Humane Technology (v1.1.0).**  
+Zenodo: https://doi.org/10.5281/zenodo.18323467  
+
+Full reference: https://ambientphone.com/raynor-stack/
