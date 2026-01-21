@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use the Raynor Stack or its conceptual architecture, please cite this canonical reference."
+
+title: "The Raynor Stack: A Thermodynamic Architecture of Humane Technology"
+abstract: >
+  The Raynor Stack defines the minimal thermodynamic sequence by which technology becomes humane:
+  time → attention → AI → warmth → ambience → aura → field.
+  It is not a product architecture or UX framework, but a viability-based grammar describing the
+  energetic transitions required for coherent, non-extractive socio-technical systems.
+  The Stack operates as the canonical phenomenological layer of the Ambient Era, in complement
+  with the Thermodynamic Field substrate.
+
+authors:
+  - family-names: "Eissens"
+    given-names: "Raynor"
+
+version: "1.1.0"
+date-released: "2026-01-21"
+
+url: "https://github.com/RaynorEissens/raynor-stack"
+repository-code: "https://github.com/RaynorEissens/raynor-stack"
+
+doi: "10.5281/zenodo.18323467"
+
+identifiers:
+  - type: "url"
+    value: "https://ambientphone.com/raynor-stack/"
+  - type: "url"
+    value: "https://thermodynamicfield.com/ambient-era"
+  - type: "url"
+    value: "https://ambientphone.com"
+
+keywords:
+  - "Ambient Era"
+  - "Raynor Stack"
+  - "Thermodynamic Architecture"
+  - "Ambient Phone"
+  - "Thermodynamic Field"
+  - "Attention Thermodynamics"
+  - "Humane Technology"
+  - "Field-Based Interfaces"
+  - "Coherence Grammar"
+  - "Ambient Architecture"
+
+license: "CRL-1.0"
+
+preferred-citation:
+  type: article
+  title: "The Raynor Stack: Canonical Thermodynamic Sequence for Humane Technology"
+  authors:
+    - family-names: "Eissens"
+      given-names: "Raynor"
+  year: 2026
+  doi: "10.5281/zenodo.18323467"
+  url: "https://ambientphone.com/raynor-stack/"
