@@ -1,6 +1,18 @@
 # The Raynor Stack  
 ## The Thermodynamic Architecture of Humane Technology
+## Canonical Origin
 
+CCR-1.0 is part of the **Ambient Era Canon**, a distributed field architecture by **Raynor Eissens**.
+
+Primary public entrypoints:
+- https://ambientphone.com
+- https://ambientera.com
+- https://chromapin.com
+- https://chromarail.com
+
+This repository provides the machine-readable specification layer of the canon.
+
+---
 Canonical definition of the thermodynamic architecture underlying the Ambient Phone.  
 Primary reference: https://ambientphone.com/raynor-stack/
 
@@ -196,3 +208,7 @@ MIT License (or your chosen license).
 
 This document forms part of the **Ambient Era Canon**.  
 All terminology is defined thermodynamically and must remain structurally intact.
+---
+
+**Color is not decoration.  
+Color is structure.**
